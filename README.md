@@ -1,2 +1,2 @@
 # ZenInitieDocs
-Project here : https://github.com/ThomasCloarec/ZenInitie
+Project sources here : https://github.com/ThomasCloarec/ZenInitie
