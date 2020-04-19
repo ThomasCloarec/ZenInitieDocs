@@ -6,6 +6,7 @@ model.game
 model.menu
 model.utils
 view
+view.sub_views
 view.sub_views.game_view
 view.sub_views.game_view.view_sections
 view.sub_views.menu_view
