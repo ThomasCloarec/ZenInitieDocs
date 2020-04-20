@@ -3,6 +3,7 @@ controller.game
 controller.menu
 model
 model.game
+model.game.team
 model.menu
 model.utils
 view
