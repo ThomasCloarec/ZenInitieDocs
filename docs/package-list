@@ -1,9 +1,9 @@
 controller.game
 controller.menu
-model
 model.game
 model.game.team
 model.menu
+utils.observer
 view
 view.subviews
 view.subviews.gameview
