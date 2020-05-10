@@ -4,6 +4,7 @@ controller.menu
 model.game
 model.game.team
 model.menu
+network
 utils.observer
 view
 view.subviews
