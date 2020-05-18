@@ -6,7 +6,7 @@ controller.menu
 model.game
 model.game.team
 model.menu
-network
+utils.network
 utils.observer
 view
 view.subviews
