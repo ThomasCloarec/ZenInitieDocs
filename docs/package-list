@@ -4,6 +4,8 @@ controller.game.listeners
 controller.listeners
 controller.menu
 model.game
+model.game.board
+model.game.network
 model.game.team
 model.menu
 utils.network
@@ -12,6 +14,7 @@ view
 view.subviews
 view.subviews.gameview
 view.subviews.gameview.viewsections
+view.subviews.gameview.viewsections.board
 view.subviews.menuview
 view.subviews.menuview.viewsections
 view.utils
