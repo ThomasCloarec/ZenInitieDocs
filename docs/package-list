@@ -8,6 +8,10 @@ model.game.board
 model.game.network
 model.game.team
 model.menu
+tests.model.game
+tests.model.game.board
+tests.model.game.network
+tests.model.menu
 utils.network
 utils.observer
 view
