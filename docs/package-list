@@ -7,6 +7,10 @@ model.game
 model.game.board
 model.game.network
 model.game.team
+model.game.team.ai
+model.game.team.ai.neuralnet
+model.game.team.ai.neuralnet.math
+model.game.team.ai.neuralnet.optimizer
 model.menu
 tests.model.game
 tests.model.game.board
